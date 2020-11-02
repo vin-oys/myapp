@@ -8,8 +8,6 @@ https://howsyourday-myapp.herokuapp.com/
 Wanted to have an app to consolidate all the routine activities.
 
 - journal
-- track expenses
-- track new habits
 
 ## Technologies Used
 
