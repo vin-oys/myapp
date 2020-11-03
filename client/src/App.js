@@ -94,7 +94,7 @@ class App extends React.Component {
       .then((res) => {
         console.log(res);
         this.setState({
-          journalData: res.data,
+          journalData: res.data.reverse(),
         });
       })
       .catch((err) => console.log("err in getJournal", err));
